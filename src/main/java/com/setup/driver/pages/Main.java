@@ -16,6 +16,10 @@ public class Main {
 		PageFactory.initElements(driver, this);
 	}
 	
+	//locator
+	
+	//method
+	
 	
 	static void delay(int seconds) {
 		try {
