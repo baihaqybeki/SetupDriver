@@ -1,9 +1,10 @@
-package com.juaracoding.test.pages;
+package com.setup.driver.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import com.juaracoding.test.driver.DriverSingleton;
+import com.setup.driver.driver.DriverSingleton;
+
 
 
 public class Main {

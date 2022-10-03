@@ -1,4 +1,4 @@
-package com.juaracoding.test.utils;
+package com.setup.driver.utils;
 
 public class Constants {
 	public static final int Timeout = 10;

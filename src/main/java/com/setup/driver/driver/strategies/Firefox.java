@@ -1,4 +1,4 @@
-package com.juaracoding.test.driver.strategies;
+package com.setup.driver.driver.strategies;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

@@ -1,7 +1,7 @@
-package com.juaracoding.test.driver.strategies;
+package com.setup.driver.driver.strategies;
 
 
-import com.juaracoding.test.utils.Constants;
+import com.setup.driver.utils.Constants;
 
 public class DriverStrategyImplementer {
 	

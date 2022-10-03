@@ -2,8 +2,7 @@ package steps;
 
 import org.openqa.selenium.WebDriver;
 
-import com.juaracoding.test.pages.Main;
-import com.juaracoding.test.utils.Constants;
+import com.setup.driver.pages.Main;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;

@@ -2,8 +2,8 @@ package steps;
 
 import org.openqa.selenium.WebDriver;
 
-import com.juaracoding.test.driver.DriverSingleton;
-import com.juaracoding.test.utils.Constants;
+import com.setup.driver.driver.DriverSingleton;
+import com.setup.driver.utils.Constants;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
